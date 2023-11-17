@@ -12,6 +12,9 @@ import org.springframework.stereotype.Repository;
 import com.staff.employee.Employee;
 
 @Repository
+
+public void do my ();
+
 public class EmployeeDao {
 	
 	@Autowired 
