@@ -22,6 +22,15 @@ public class EmployeeController {
 	List<Employee> list =s.getAllData();
 	return list;
 	}
+       
+      
+      @PostMapping("/add")
+      public String addnewdata(@pathvariable string){
+      return addnewdata.
+        
+}
+
+
 	
 	
 }
